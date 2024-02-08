@@ -1,0 +1,10 @@
+
+Não há mais informações relevantes para serem extraídas deste conteúdo.
+
+Este é um projeto em desenvolvimento que tem como objetivo converter um serviço SOAP em uma REST API com a integração do ChatGPT para a conversão utilizando linguagem natural. O projeto utiliza Java, ChatGPT e Files. Foi criada uma estrutura com as camadas controle, model e service para manter o padrão de camadas e organização. 
+
+Para executar a aplicação, basta executar a classe IniciarAplicação e informar o caminho da pasta base que contém os services SOAP gerados pelo comando WSIMPORT. É necessário alterar a chave de acesso para consumir o ChatGPT, essa informação está na classe ServiceChatGPT.
+
+Não há informações sobre testes neste arquivo.
+
+Nome do arquivo: ConversorSoapemRestAPIcomChatGPT.java
